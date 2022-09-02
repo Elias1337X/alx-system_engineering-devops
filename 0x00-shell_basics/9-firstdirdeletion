@@ -1,0 +1,2 @@
+#!/bin/bash
+rmdir /tmps/my_first_directory
